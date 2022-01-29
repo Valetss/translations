@@ -108,5 +108,5 @@
     <!-- Vibration Strength -->
     <string name="category_vibrator">Вибрация</string>
     <string name="vib_strength_title_head">Сила вибрации</string>
-    <string name="vib_strength_summary_head">Установть силу виброотклика</string>
+    <string name="vib_strength_summary_head">Установить силу виброотклика</string>
 </resources>
