@@ -55,9 +55,6 @@
     <string name="quick_settings_screenshot_label">Screenshot</string>
     <string name="quick_settings_region_screenshot_label">Partial screenshot</string>
 
-    <!-- Dolby Atmos QS tile -->
-    <string name="quick_settings_dolby_label">Dolby Atmos</string>
-
     <!-- Screen record -->
     <!-- Label for notification action to delete a screen recording file [CHAR LIMIT=35] -->
     <string name="screenrecord_delete_label">Delete</string>

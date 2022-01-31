@@ -47,8 +47,6 @@
     <!-- Screenshot QS tile -->
     <string name="quick_settings_screenshot_label">全屏截图</string>
     <string name="quick_settings_region_screenshot_label">局部截图</string>
-    <!-- Dolby Atmos QS tile -->
-    <string name="quick_settings_dolby_label">杜比全景声</string>
     <!-- Screen record -->
     <!-- Label for notification action to delete a screen recording file [CHAR LIMIT=35] -->
     <string name="screenrecord_delete_label">删除</string>

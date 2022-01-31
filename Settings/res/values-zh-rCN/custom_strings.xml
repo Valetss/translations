@@ -204,11 +204,6 @@
     <string name="monet_engine_accurate_shades_title">使用准确色调</string>
     <string name="monet_engine_chroma_factor_title">色度值</string>
     <string name="monet_engine_linear_lightness_title">使用线性亮度</string>
-    <!-- Theme settings -->
-    <string name="theme_category_title">主题</string>
-    <string name="theme_customization_font_title">标题 / 正文字体</string>
-    <string name="theme_customization_icon_shape_title">图标形状</string>
-    <string name="theme_customization_icon_pack_title">系统图标</string>
     <!-- Ambient Display Swipe Gesture -->
     <string name="ambient_gesture_title">手势</string>
     <string name="ambient_swipe_title">滑动唤醒</string>
@@ -460,18 +455,6 @@
     <string name="application_icon">应用图标</string>
     <!-- System Update -->
     <string name="system_update_title">系统更新</string>
-    <!-- Per-app data restrictions -->
-    <string name="data_usage_app_restrict_all">允许访问网络</string>
-    <string name="data_usage_app_restrict_all_summary">启用网络使用统计</string>
-    <string name="data_usage_app_restrict_mobile">移动数据</string>
-    <string name="data_usage_app_restrict_mobile_summary">允许使用移动数据</string>
-    <string name="data_usage_app_restrict_vpn">VPN 数据</string>
-    <string name="data_usage_app_restrict_vpn_summary">启用 VPN 的数据使用统计</string>
-    <string name="data_usage_app_restrict_wifi">Wi\u2011Fi 数据</string>
-    <string name="data_usage_app_restrict_wifi_summary">启用 Wi\u2011Fi 流量使用统计</string>
-    <!-- Hotspot lineage extras -->
-    <string name="tethering_allow_vpn_upstreams_title">允许客户端使用 VPN</string>
-    <string name="tethering_allow_vpn_upstreams_summary">允许热点客户端使用此设备\u2019的 VPN 连接到上游连接</string>
     <!-- QS Brightness -->
     <string name="qs_brightness_slider_title">亮度条滑块</string>
     <string name="qs_brightness_slider_summary">自定义快捷设置面板的亮度条滑块</string>
@@ -485,4 +468,23 @@
     <string name="qs_show_auto_brightness_button_hide">不显示</string>
     <string name="qs_show_auto_brightness_button_slider">在滑块旁显示</string>
     <string name="qs_show_auto_brightness_button_footer">在页脚显示</string>
+    <!-- Font style / Icon pack -->
+    <string name="theme_category_title">主题</string>
+    <string name="theme_customization_font_title">字体样式</string>
+    <string name="theme_customization_font_summary">设置系统字体样式</string>
+    <string name="theme_customization_icon_pack_title">图标包</string>
+    <string name="theme_customization_icon_pack_summary">设置自定义图标包样式</string>
+    <string name="theme_customization_icon_shape_title">图标形状</string>
+    <string name="theme_customization_icon_shape_summary">设置系统图标形状</string>
+    <string name="theme_customization_signal_icon_title">信号图标样式</string>
+    <string name="theme_customization_signal_icon_summary">设置自定义信号图标样式</string>
+    <string name="theme_customization_wifi_icon_title">Wi-Fi 图标样式</string>
+    <string name="theme_customization_wifi_icon_summary">设置自定义 Wi-Fi 图标样式</string>
+    <!-- Black theme -->
+    <string name="system_black_theme_title">使用纯黑主题</string>
+    <string name="system_black_theme_summary">强制背景显示黑色</string>
+    <!-- Gesture navbar radius -->
+    <string name="gesture_navbar_radius_title">小白条粗细</string>
+    <string name="thin_label">最细</string>
+    <string name="thick_label">最粗</string>
 </resources>
