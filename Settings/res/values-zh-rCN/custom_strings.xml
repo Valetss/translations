@@ -192,8 +192,6 @@
     <string name="qs_multi_users_summary">在快捷设置面板底部显示多用户按钮</string>
     <string name="qs_power_menu_title">电源菜单按钮</string>
     <string name="qs_power_menu_summary">在快捷设置面板底部显示电源菜单按钮</string>
-    <string name="qs_auto_brightness_title">自动亮度按钮</string>
-    <string name="qs_auto_brightness_summary">在快捷设置面板底部显示自动亮度按钮</string>
     <string name="qs_running_services_title">正在运行的服务按钮</string>
     <string name="qs_running_services_summary">在快捷设置面板底部显示正在运行的服务按钮</string>
     <!-- Monet Engine -->
@@ -206,11 +204,6 @@
     <string name="monet_engine_accurate_shades_title">使用准确色调</string>
     <string name="monet_engine_chroma_factor_title">色度值</string>
     <string name="monet_engine_linear_lightness_title">使用线性亮度</string>
-    <!-- Theme settings -->
-    <string name="theme_category_title">主题</string>
-    <string name="theme_customization_font_title">标题 / 正文字体</string>
-    <string name="theme_customization_icon_shape_title">图标形状</string>
-    <string name="theme_customization_icon_pack_title">系统图标</string>
     <!-- Ambient Display Swipe Gesture -->
     <string name="ambient_gesture_title">手势</string>
     <string name="ambient_swipe_title">滑动唤醒</string>
@@ -462,4 +455,36 @@
     <string name="application_icon">应用图标</string>
     <!-- System Update -->
     <string name="system_update_title">系统更新</string>
+    <!-- QS Brightness -->
+    <string name="qs_brightness_slider_title">亮度条滑块</string>
+    <string name="qs_brightness_slider_summary">自定义快捷设置面板的亮度条滑块</string>
+    <string name="qs_show_brightness_title">快捷设置面板</string>
+    <string name="qs_show_brightness_summary">在快捷设置面板显示亮度条滑块</string>
+    <string name="qqs_show_brightness_title">初级展开面板</string>
+    <string name="qqs_show_brightness_summary">在初级展开面板显示亮度条滑块</string>
+    <string name="qs_brightness_position_position_title">移至底部</string>
+    <string name="qs_brightness_position_position_summary">在快捷设置面板底部显示亮度条滑块</string>
+    <string name="qs_show_auto_brightness_button_title">自动亮度按钮</string>
+    <string name="qs_show_auto_brightness_button_hide">不显示</string>
+    <string name="qs_show_auto_brightness_button_slider">在滑块旁显示</string>
+    <string name="qs_show_auto_brightness_button_footer">在页脚显示</string>
+    <!-- Font style / Icon pack -->
+    <string name="theme_category_title">主题</string>
+    <string name="theme_customization_font_title">字体样式</string>
+    <string name="theme_customization_font_summary">设置系统字体样式</string>
+    <string name="theme_customization_icon_pack_title">图标包</string>
+    <string name="theme_customization_icon_pack_summary">设置自定义图标包样式</string>
+    <string name="theme_customization_icon_shape_title">图标形状</string>
+    <string name="theme_customization_icon_shape_summary">设置系统图标形状</string>
+    <string name="theme_customization_signal_icon_title">信号图标样式</string>
+    <string name="theme_customization_signal_icon_summary">设置自定义信号图标样式</string>
+    <string name="theme_customization_wifi_icon_title">Wi-Fi 图标样式</string>
+    <string name="theme_customization_wifi_icon_summary">设置自定义 Wi-Fi 图标样式</string>
+    <!-- Black theme -->
+    <string name="system_black_theme_title">使用纯黑主题</string>
+    <string name="system_black_theme_summary">强制背景显示黑色</string>
+    <!-- Gesture navbar radius -->
+    <string name="gesture_navbar_radius_title">小白条粗细</string>
+    <string name="thin_label">最细</string>
+    <string name="thick_label">最粗</string>
 </resources>

@@ -223,8 +223,6 @@
     <string name="qs_multi_users_summary">Display multi users icon in the QS footer</string>
     <string name="qs_power_menu_title">Power menu icon</string>
     <string name="qs_power_menu_summary">Display power menu icon in the QS footer</string>
-    <string name="qs_auto_brightness_title">Auto brightness icon</string>
-    <string name="qs_auto_brightness_summary">Display toggle for adaptive brightness in the QS footer</string>
     <string name="qs_running_services_title">Running services icon</string>
     <string name="qs_running_services_summary">Display running services icon in the QS footer</string>
 
@@ -238,12 +236,6 @@
     <string name="monet_engine_accurate_shades_title">Use accurate shades</string>
     <string name="monet_engine_chroma_factor_title">Chroma factor</string>
     <string name="monet_engine_linear_lightness_title">Use linear lightness</string>
-
-    <!-- Theme settings -->
-    <string name="theme_category_title">Theme</string>
-    <string name="theme_customization_font_title">Headline / Body font</string>
-    <string name="theme_customization_icon_shape_title">Icon shape</string>
-    <string name="theme_customization_icon_pack_title">Icon pack</string>
 
     <!-- Ambient Display Swipe Gesture -->
     <string name="ambient_gesture_title">Gestures</string>
@@ -538,4 +530,40 @@
 
     <!-- System Update -->
     <string name="system_update_title">System update</string>
+
+    <!-- QS Brightness -->
+    <string name="qs_brightness_slider_title">Brightness slider</string>
+    <string name="qs_brightness_slider_summary">Customize brightness slider in QS panel</string>
+    <string name="qs_show_brightness_title">QS panel</string>
+    <string name="qs_show_brightness_summary">Show brightness slider in QS panel</string>
+    <string name="qqs_show_brightness_title">Quick QS panel</string>
+    <string name="qqs_show_brightness_summary">Show brightness slider in QQS panel</string>
+    <string name="qs_brightness_position_position_title">Move to bottom</string>
+    <string name="qs_brightness_position_position_summary">Show brightness slider in the bottom of QS panel</string>
+    <string name="qs_show_auto_brightness_button_title">Auto brightness button</string>
+    <string name="qs_show_auto_brightness_button_hide">Hide</string>
+    <string name="qs_show_auto_brightness_button_slider">Show near slider</string>
+    <string name="qs_show_auto_brightness_button_footer">Show in footer</string>
+
+    <!-- Font style / Icon pack -->
+    <string name="theme_category_title">Theme</string>
+    <string name="theme_customization_font_title">Font style</string>
+    <string name="theme_customization_font_summary">Set system font style</string>
+    <string name="theme_customization_icon_pack_title">Icon pack</string>
+    <string name="theme_customization_icon_pack_summary">Set custom icon pack style</string>
+    <string name="theme_customization_icon_shape_title">Icon shape</string>
+    <string name="theme_customization_icon_shape_summary">Set system icon shape style</string>
+    <string name="theme_customization_signal_icon_title">Signal icon style</string>
+    <string name="theme_customization_signal_icon_summary">Set custom signal icon style</string>
+    <string name="theme_customization_wifi_icon_title">Wi-Fi icon style</string>
+    <string name="theme_customization_wifi_icon_summary">Set custom Wi-Fi icon style</string>
+
+    <!-- Black theme -->
+    <string name="system_black_theme_title">Use black theme</string>
+    <string name="system_black_theme_summary">Force black background colors</string>
+
+    <!-- Gesture navbar radius -->
+    <string name="gesture_navbar_radius_title">Pill radius</string>
+    <string name="thin_label">Thin</string>
+    <string name="thick_label">Thick</string>
 </resources>
